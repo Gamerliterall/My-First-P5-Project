@@ -1,0 +1,13 @@
+h3{
+    font-size: 25px underline;
+}
+
+canvas{
+    border: 1px solid black;
+    background: solid white;
+    position: center;
+}
+
+body{
+    background: lime;
+}
